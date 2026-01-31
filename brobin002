@@ -2,7 +2,8 @@
   "domains": [
     "https://api.sandvpn.com",
     "https://api.sandvpn.online",
-    "https://api.sandprivacy.com"
+    "https://api.sandprivacy.com",
+    "https://sync.qrclass.com"
   ],
   "website_urls": [
     "https://sandvpn.com",
