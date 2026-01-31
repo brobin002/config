@@ -1,0 +1,15 @@
+{
+  "domains": [
+    "https://api.sandvpn.com",
+    "https://api.sandvpn.online",
+    "https://api.sandprivacy.com"
+  ],
+  "website_urls": [
+    "https://sandvpn.com",
+    "https://sandvpn.online",
+    "https://sandprivacy.com"
+  ],
+  "priority": ["direct", "backup", "clean_mirror"],
+  "timestamp": 1733702400,
+  "version": "2.0"
+}
